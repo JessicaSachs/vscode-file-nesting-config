@@ -457,6 +457,11 @@ const sanity = [
 const agents = [
   '.clinerules',
   '.cursorrules',
+  '.claude*',
+  '.cursor*',
+  '.codex*',
+  '.aider*',
+  '.continue*',
   '.replit.md',
   '.windsurfrules',
   'AGENT.md',
